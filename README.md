@@ -18,7 +18,7 @@ The dataset used in this project is the [Lichess Database](https://www.kaggle.co
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/hiu211203/Chess-Move-Recommender
+   git clone https://github.com/hiu211203/Chess-move-recommender
    ```
 
 2. Install the required Python packages:
