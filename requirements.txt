@@ -1,0 +1,4 @@
+pygame==2.3.0
+torch==2.0.1
+torchvision==0.15.2
+chess==1.9.4
