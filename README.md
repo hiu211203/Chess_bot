@@ -1,4 +1,4 @@
-# Chess Move Recommender
+# Chess Bot
 
 This project implements a chess move recommender system using neural networks for selecting the best piece and move on a chessboard. The game includes a graphical user interface (GUI) for gameplay, and a bot plays as the opponent (black pieces).
 
